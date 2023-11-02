@@ -1,7 +1,0 @@
-ipywidgets
-langchain
-voila
-openai
-ipykernel
-chromadb
-tiktoken
